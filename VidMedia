@@ -1,0 +1,9 @@
+{"AdsController" :{
+    "AdmobId":"pub-54",
+    "OpenAdmob":"ca-app-pub-5407488668",
+    "BannerAdmob":"ca-app-pub-540748866821",
+    "NativeAdmob":"ca-app-pub-540748866821",
+    "InterstitialAdmob":"ca-app-pub-54074886682",
+    "InterSplashAdmob":"ca-app-pub-5407488668"
+}
+}
